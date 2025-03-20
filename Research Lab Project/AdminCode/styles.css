@@ -1,0 +1,49 @@
+.badge-verified {
+    background-color: #198754;
+}
+.badge-unverified {
+    background-color: #dc3545;
+}
+.table-hover tbody tr:hover {
+    background-color: rgba(0, 123, 255, 0.1) !important;
+}
+.btn-verify {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    color: #fff !important;
+}
+.btn-unverify {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: #fff !important;
+}
+.filter-buttons {
+    margin-bottom: 20px;
+}
+.filter-buttons .btn {
+    margin-right: 10px;
+}
+.btn-filter {
+    background-color: #6c757d;
+    border-color: #6c757d;
+    color: #fff !important;
+}
+.btn-filter.active {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+.top-buttons {
+    margin-bottom: 30px;
+}
+.top-buttons .btn {
+    margin-left: 10px;
+}
+.password-error,
+.username-error,
+.email-error {
+    color: red;
+    margin-bottom: 15px;
+}
+.modal-body .form-group {
+    margin-bottom: 15px;
+}
